@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @XxlivermoriumxX
-- 👀 I’m interested in science fiction, computer science, baking
-- 🌱 I’m currently learning web design
+👋 Hi, I’m @XxlivermoriumxX
 
 <!---
 XxlivermoriumxX/XxlivermoriumxX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
