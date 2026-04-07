@@ -1,4 +1,4 @@
-👋 Hi, I’m @XxlivermoriumxX
+👋 Hi, I’m Hailey
 
 <!---
 XxlivermoriumxX/XxlivermoriumxX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
